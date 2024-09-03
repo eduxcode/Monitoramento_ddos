@@ -22,7 +22,7 @@ Bem-vindo ao repositório da **Ferramenta de Detecção de Ataques DoS/DDoS**! E
 4. **Geração de Relatórios:** A aplicação gera relatórios em PDF dos eventos de segurança, utilizando a biblioteca `reportlab`.
 
 
-![Monitor DDoS](Monitor.png) 
+![Monitor DDoS](monitor.png) 
 
 
 ### 2. Configuração Inicial
